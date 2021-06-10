@@ -1,9 +1,9 @@
 # Sequencia de comandos e verificações no dia a dia
 
-### Veriricar branch ativa
+### Verificar branch ativa
 `git branch`
 
-### Verificar com equipe se enviaram modificações na branch que vai trabalhar ou na branc principal (main, master)
+### Verificar com a equipe se enviaram modificações na branch que vai trabalhar ou na branc principal (main, master)
 ### Se sim, atualizar repositorio local
 `git pull origin <nome branch ativa>` - atualizar branch ativa com branch do repositorio remota
 
