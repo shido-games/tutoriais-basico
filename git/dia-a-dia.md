@@ -24,4 +24,4 @@
 
 `git commit -m "mensagem com descricao das informacoes"` - commit das modificações com mensagem descritiva
 
-`git push origin <nome da branch>`
+`git push origin <nome da branch>`  - enviar modificações
