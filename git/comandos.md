@@ -31,3 +31,9 @@
 
 ### Merge
 `git merge <nome da branch>`
+
+### Buscar lista de branch do repositorio remoto
+`git ls-remote origin`
+
+### Trazer branch remota para repositorio local
+`git branch <local-branch> <remote-repository>/<remote-branch>`
