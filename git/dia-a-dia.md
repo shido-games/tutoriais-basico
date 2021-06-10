@@ -16,3 +16,12 @@
 `git checkout <nome branch>` - ativa branch desejada
 
 `git checkout -b <nome nova branch>` - cria nova branch e ativa
+
+### Finalizar os trabalhos
+`git status` - verificar arquivos modificados
+
+`git add .` ou `git add /<nome arquivo>`  -  adicionar arquivos modificados
+
+`git commit -m "mensagem com descricao das informacoes"` - commit das modificações com mensagem descritiva
+
+`git push origin <nome da branch>`
