@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=F5Yn7y9Ib_I&t=532s
 https://git-lfs.com/
 
 ## Adicionar lista de documentos que o git lfs vai controlar
-(copiar e colar cada uma das linhas abaixo no prompt de comando)
+Abrir prompt de comando na pasta onde está o repositorio do projeto copiar e colar cada uma das linhas abaixo no prompt de comando
 
 git lfs track *.fbx
 
